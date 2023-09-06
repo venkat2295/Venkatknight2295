@@ -1,6 +1,6 @@
 <div align=center>
 
-![majorbruteforce's Streak](https://github-readme-streak-stats.herokuapp.com/?user=majorbruteforce&theme=vue-dark&hide_border=false)
+![Venkatknight2295's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Venkatknight2295&theme=vue-dark&hide_border=false)
 
 </div>
 
