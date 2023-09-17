@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....BHUBANESWAR<br><br>- 🔭 I’m working as ... frontend developer<br>- 📚 I'm currently learning ...react<br>- I am doing bachelor's in IIIT Bhubaneswar<br>- ⚡ In my free time I ... listen songs</p>
+<p align="left">I'm ... from ....BHUBANESWAR<br><br>- 🔭 I’m working as ... frontend developer<br>- 📚 I'm currently learning ...react<br>- I am doing bachelor's degree in IIIT Bhubaneswar<br>- ⚡ In my free time I ... listen songs</p>
 
 ###
 
